@@ -1,1 +1,3 @@
 # Application web Burger House By Remote Monkey.
+
+Use npm install & npm start to launch the project...
